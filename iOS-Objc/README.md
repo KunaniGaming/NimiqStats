@@ -136,7 +136,7 @@ Class | Method | HTTP request | Description
 
 ## Documentation For Authorization
 
- All endpoints do not require authorization.
+ All endpoints do not require authorization. This may change in the future.
 
 
 ## Author
